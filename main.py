@@ -20,8 +20,8 @@ import os
 
 ENTRY = (
     "The boy who fell off his bike six times before lunch rode past his "
-    "own gate with both feet on the pedals and his chin up, not looking "
-    "down once."
+    "own gate, both feet on the pedals, and for the first time that "
+    "morning he didn't check whether anyone was watching."
 )
 
 
